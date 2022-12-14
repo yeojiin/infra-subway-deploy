@@ -59,7 +59,7 @@ npm run dev
 2. 배포한 서비스의 공인 IP(혹은 URL)를 알려주세요
 
 - URL :
-    * http://43.201.105.251:8080/
+    * http://3.39.233.62:8080/
     * http://yeojiin-subway.o-r.kr:8080/
 
 
